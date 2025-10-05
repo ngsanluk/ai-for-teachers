@@ -320,6 +320,16 @@ A teenage named Leo is super hero fan.  After a car accident, he discovers he ha
 
 ![](./images/gemini-storybook-example-2.png)
 
+### Write Prompts to interact with Google Workspace
+
+```
+@Google Calendar show my events in a week
+```
+
+```
+@Google Drive show documents list
+```
+
 ## Create your own Gem
 
 ![](./images/gem-manager-new-gem.png)
