@@ -35,4 +35,4 @@ The Use of Generative AI in Teaching
 **Prompt**:  
 `Create a Google Form quiz using the above questions.  Use Google Apps Script`
 
-    code/Create a Google Form quiz using the above questions.  Use Google Apps Script
+    Create a Google Form quiz using the above questions.  Use Google Apps Script
