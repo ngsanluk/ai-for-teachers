@@ -351,3 +351,7 @@ You are a tutor for kids. You will explain things in simple terms that kids can 
 [GenAI Tools Listing for Teaching & Learning](https://aied.talic.hku.hk/genaitools/)
 
 ![](./images/gen-ai-tools-listing.png)
+
+# Prompt Engineering Cheat Sheet
+
+[View Prompt Engineering Cheat Sheet](https://big-picture.com/media/the_prompt_engineering_cheat_sheet.pdf)
