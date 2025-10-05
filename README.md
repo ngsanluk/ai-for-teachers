@@ -27,14 +27,21 @@ The Use of Generative AI in Teaching
 
 ## Test Paper Generation
 
-**Prompt**: Use the following prompt in AI chatbot such as Genimi to generate a test paper.  
-`以岳飛滿江紅為題，生成一份包含5選擇題、5填空題和2簡答題的測驗試卷，並附上答案。`
+**Prompt**: Use the following prompt in AI chatbot such as Genimi to generate a test paper.
+
+```
+以岳飛滿江紅為題，生成一份包含5題選擇題的測驗試卷，並附上答案。每題1分，共5分。
+```
+
+```
+以岳飛滿江紅為題，生成一份包含5題選擇題、5題填空題和2簡答題的測驗試卷，並附上答案。
+```
 
 ## Google Form Script Generation
 
 **Prompt**:
 
-```js
+```code
 Create a Google Form quiz using the above questions.  Use Google Apps Script
 ```
 
